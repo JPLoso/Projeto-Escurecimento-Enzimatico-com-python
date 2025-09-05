@@ -1,9 +1,28 @@
 import matplotlib.pyplot as plt
 
 # Dados
-horas = ["00h", "01h", "02h", "03h", "04h", "05h", "06h", "07h", "08h", "09h", "10h", "11h",
-         "12h", "13h", "14h", "15h", "16h", "17h", "18h", "19h", "20h", "21h", "22h", "23h"]
-porcentagem = [5, 7, 6, 8, 10, 12, 20, 30, 50, 55, 60, 65, 70, 75, 80, 85, 80, 70, 60, 50, 40, 30, 15, 10]
+valores = None
+controler = 1
+horas = []
+porcentagem = []
+
+print("Digite próximo para ir para os valores de Y\n")
+print("Digite Mostrar para ir para o gráfico")
+while(True):
+    if controler == 1:
+        valores = input("Digite o valor de X: ")
+        if valores in "Próximo" or valores in "próximo":
+            controler = 2
+        else:
+            horas.append(valores)
+    elif controler == 2:
+        valores = str(input("Digite o valor de Y: "))
+        if valores in "Mostrar" or valores in "mostrar":
+            controler = 3
+        else:
+            porcentagem.append(int(valores))
+    else:
+        break
 
 # Criar gráfico de barras
 plt.bar(horas, porcentagem, color='skyblue')
