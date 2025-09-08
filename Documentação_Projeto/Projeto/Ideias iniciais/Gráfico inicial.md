@@ -80,3 +80,4 @@ plt.show()
 ```
 
 Ideia: Puxar os valores de Y dos valores retirados da imagem
+

@@ -18,7 +18,7 @@ while(True):
     elif controler == 2:
         valores = str(input("Digite o valor de Y: "))
         if valores in "Mostrar" or valores in "mostrar":
-            controler = 3
+            controler = 3   
         else:
             porcentagem.append(int(valores))
     else:

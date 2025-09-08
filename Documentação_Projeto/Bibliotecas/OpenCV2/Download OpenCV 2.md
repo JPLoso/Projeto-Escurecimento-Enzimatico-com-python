@@ -5,6 +5,19 @@ Download
 ```
 sudo apt-get install python3-opencv
 ```
+
+> [!WARNING]  Erro no Ubuntu
+> Alguns comandos do openCV não irão funcionar no ubuntu por algo chamado snap, que pode gerar confilitos, para resolver, utilize esses comandos:
+> 
+> sudo apt update
+> sudo apt install python3 python3-pip
+> sudo apt install python3-venv 
+> python3 -m venv venv
+> source venv/bin/activate
+> pip install opencv-python numpy
+> python NomeArquivo.py
+
+
 (windows) 
 ```
 Below Python packages are to be downloaded and installed to their default locations.
@@ -25,8 +38,11 @@ Below Python packages are to be downloaded and installed to their default locati
 ```
 
 importar
-```
-import cv2 as cv
-print(cv.__version__)
+```python
+import cv2
+print(cv2.__version__)
 ```
 se for executar sem erros, Foi baixado com sucesso
+
+
+
