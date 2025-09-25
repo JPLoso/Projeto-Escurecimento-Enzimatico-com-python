@@ -5,3 +5,4 @@ para pegar a altura e largura
 altura = imagem.shape[0]# 0 indica a Altura
 largura = imagem.shape[1] # 1 indica a Largura
 ```
+

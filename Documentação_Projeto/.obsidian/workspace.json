@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Venv - Comandos de inicialização.md",
+                "file": "Bibliotecas/OpenCV2/Funções e Exemplo - OpenCV/Introdução - OpenCV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Venv - Comandos de inicialização"
+              "title": "Introdução - OpenCV"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#destroyAllWindows",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,15 +230,17 @@
   },
   "active": "57aee73c3c536174",
   "lastOpenFiles": [
-    "Bibliotecas/OpenCV2/Download OpenCV 2.md",
-    "Venv - Comandos de inicialização.md",
-    "Projeto/Ideias iniciais/Analisador de imagens 1.0.md",
-    "Bibliotecas/OpenCV2/Funções e Exemplo - OpenCV/Introdução - OpenCV.md",
-    "Projeto/Ideias iniciais/Gráfico inicial.md",
-    "Bibliotecas/OpenCV2/Funções e Exemplo - OpenCV",
-    "Bibliotecas/Matplotlib/Download matplotlib.md",
-    "Bibliotecas/Matplotlib/funções e exemplos Matplotlib/1. Teoria e conceitos.md",
     "Bibliotecas/Tkinter/Download Tkinter.md",
+    "Bibliotecas/Matplotlib/Download matplotlib.md",
+    "Projeto/Funções/NormalizadorImagens.py.md",
+    "Bibliotecas/OpenCV2/Funções e Exemplo - OpenCV/Introdução - OpenCV.md",
+    "Projeto/Funções",
+    "Bibliotecas/OpenCV2/Download OpenCV 2.md",
+    "Bibliotecas/Matplotlib/funções e exemplos Matplotlib/1. Teoria e conceitos.md",
+    "Projeto/Ideias iniciais/Analisador de imagens 1.0.md",
+    "Projeto/Ideias iniciais/Gráfico inicial.md",
+    "Venv - Comandos de inicialização.md",
+    "Bibliotecas/OpenCV2/Funções e Exemplo - OpenCV",
     "Sem título.canvas",
     "Projeto/Ideias iniciais",
     "Projeto",
@@ -249,7 +251,6 @@
     "Matplotlib/pyplot",
     "Bem-vindo.md",
     "Bibliotecas/Tkinter",
-    "Bibliotecas/OpenCV2",
-    "Bibliotecas/Matplotlib"
+    "Bibliotecas/OpenCV2"
   ]
 }
