@@ -9,3 +9,6 @@ y = np.sin(x)
 fig, ax = plt.subplots()
 ax.plot(x, y)
 plt.show()
+
+plt.plot([1,2,3])
+plt.show()

@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import Normalizador_Imagens as NI
+import NormalizadorImagens as NI
 
 # Carregar imagem
 img = cv2.imread("/home/joao-pedro-veloso/Documentos/ProjetoEngenhariaAlimentos/TestesDeFunções/ChatGPT Image 24 de set. de 2025, 20_00_53.png")
