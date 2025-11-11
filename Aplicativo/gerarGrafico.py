@@ -31,7 +31,7 @@ def gerarGrafico(entrada):
     }
 
     # --- Analisar cada região separadamente ---
-    resultados = {}
+    resultados = {} 
     for nome, (ys, xs) in regioes.items():
         sub_gray = gray[ys, xs]
         sub_mask = mask_inv[ys, xs]

@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto/Funções/calc_percentual.py.md",
-                "mode": "source",
+                "file": "Projeto/Funções/GerarGrafico.py.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "calc_percentual.py"
+              "title": "GerarGrafico.py"
             }
           }
         ],
@@ -258,8 +258,8 @@
   },
   "active": "eeab2ac32abf204a",
   "lastOpenFiles": [
-    "Projeto/Funções/GerarGrafico.py.md",
     "Projeto/Funções/calc_percentual.py.md",
+    "Projeto/Funções/GerarGrafico.py.md",
     "Projeto/Funções/main.py.md",
     "Projeto/Ideias iniciais/Analisador de imagens 1.0.md",
     "Projeto/Ideias iniciais/Gráfico inicial.md",
