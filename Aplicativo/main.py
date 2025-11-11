@@ -1,4 +1,3 @@
-from gerarGrafico import gerarGrafico
 from iniciarPrograma import iniciar_programa
 from selecionarImagem import selecionar_imagem
 import tkinter as tk
@@ -14,8 +13,10 @@ tk.Label(janela, text="Selecione uma imagem para análise:").pack(pady=5)
 
 tk.Entry(janela, textvariable=entrada_imagem, width=50).pack(pady=5)
 
-tk.Button(janela, text="Buscar Imagem", command=selecionar_imagem(entrada_imagem)).pack(pady=5)
+tk.Button(janela, text="Buscar Imagem",
+          command=lambda: selecionar_imagem(entrada_imagem)).pack(pady=5)
 
-tk.Button(janela, text="Iniciar Programa", command=iniciar_programa(entrada_imagem)).pack(pady=10)
+tk.Button(janela, text="Iniciar Programa",
+          command=lambda: iniciar_programa(entrada_imagem)).pack(pady=10)
 
 janela.mainloop()

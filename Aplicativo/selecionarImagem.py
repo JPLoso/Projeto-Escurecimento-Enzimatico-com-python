@@ -1,5 +1,4 @@
-import tkinter as tk
-from tkinter import filedialog, messagebox
+from tkinter import filedialog
 
 def selecionar_imagem(entrada_imagem):
     caminho = filedialog.askopenfilename(

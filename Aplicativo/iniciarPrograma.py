@@ -1,4 +1,4 @@
-from tkinter import filedialog, messagebox
+from tkinter import messagebox
 from gerarGrafico import gerarGrafico
 
 def iniciar_programa(entrada_imagem):
