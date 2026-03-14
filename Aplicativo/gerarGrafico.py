@@ -44,6 +44,6 @@ def gerarGrafico(entrada):
         plt.text(i, v+1, f"{v:.1f}%", ha='center')
 
     plt.ylim(0,100)
-    plt.title("Distribuição de Brilho (Fundo Ignorado)")
+    plt.title("Distribuição de claridade)")
     plt.ylabel("% dos Pixels")
     plt.show()
