@@ -1,3 +1,7 @@
+
+Função para rodar o código, responsavel pala interface gráfica inicial.
+
+```python
 #Importando tk, messagebox, e duas funções internas
 import tkinter as tk 
 from tkinter import messagebox 
@@ -47,3 +51,5 @@ def main():
 #Garante que o código não ira rodar por outros arquivos
 if __name__ == "__main__":
 	main()
+
+```
