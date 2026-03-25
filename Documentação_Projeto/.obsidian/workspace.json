@@ -8,75 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "527766a428a7e21f",
+            "id": "1300885e4fe496bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resultados/Primeira tentativa/T01.md",
+                "file": "Projeto/Arquivos/analisar_imagem.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T01"
-            }
-          },
-          {
-            "id": "1e955ccef8319413",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.11.7"
-            }
-          },
-          {
-            "id": "2f1dba438b032201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projeto/Arquivos/main.py.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "main.py"
-            }
-          },
-          {
-            "id": "737f4a40e403a204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projeto/Arquivos/iniciar_programa.py.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "iniciar_programa.py"
-            }
-          },
-          {
-            "id": "e82bf50c7e715387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projeto/Arquivos/selecionar_imagem.py.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "selecionar_imagem.py"
+              "title": "analisar_imagem.py"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,34 +169,36 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e82bf50c7e715387",
+  "active": "2fd0adcaa969ee25",
   "lastOpenFiles": [
-    "Projeto/Arquivos/main.py.md",
-    "Projeto/Arquivos/selecionar_imagem.py.md",
-    "Projeto/Arquivos/iniciar_programa.py.md",
     "Projeto/Arquivos/gerar_grafico.py.md",
-    "Projeto/Arquivos/calc_percentual.py.md",
+    "Projeto/Arquivos/plotar_grafico.py.md",
+    "Projeto/Arquivos/analisar_imagem.py.md",
+    "Projeto/Arquivos/carregar_imagem.py.md",
+    "Projeto/Arquivos/criar_mascara.py.md",
     "Resultados/Primeira tentativa/T10.md",
-    "Resultados/Primeira tentativa/T09.md",
-    "Resultados/Primeira tentativa/T08.md",
     "Resultados/Primeira tentativa/T07.md",
-    "Resultados/Primeira tentativa/T06.md",
     "Resultados/Primeira tentativa/T05.md",
-    "Resultados/Primeira tentativa/T04.md",
     "Resultados/Primeira tentativa/T03.md",
-    "Resultados/Primeira tentativa/T02.md",
     "Resultados/Primeira tentativa/T01.md",
-    "Experimentos/experimento 1 - maças/T8.md",
-    "Experimentos/experimento 1 - maças/T10.md",
-    "Experimentos/experimento 1 - maças/T9.md",
-    "Experimentos/experimento 1 - maças/T7.md",
-    "Experimentos/experimento 1 - maças/T6.md",
-    "Experimentos/experimento 1 - maças/T5.md",
     "Experimentos/experimento 1 - maças/T4.md",
     "Experimentos/experimento 1 - maças/T3.md",
     "Experimentos/experimento 1 - maças/T2.md",
     "Experimentos/experimento 1 - maças/T1.md",
-    "Bibliotecas/OpenCV2/Download OpenCV 2.md",
+    "Bibliotecas/Numpy",
+    "Bibliotecas/OS",
+    "Bibliotecas/Venv - Comandos de inicialização.md",
+    "Projeto/Arquivos/selecionar_imagem.py.md",
+    "Projeto/Arquivos/main.py.md",
+    "Projeto/Arquivos/iniciar_programa.py.md",
+    "Projeto/Arquivos/calc_percentual.py.md",
+    "Projeto/Arquivos/gerar_grafico.py.md",
+    "Resultados/Primeira tentativa/T09.md",
+    "Resultados/Primeira tentativa/T08.md",
+    "Resultados/Primeira tentativa/T06.md",
+    "Resultados/Primeira tentativa/T04.md",
+    "Resultados/Primeira tentativa/T02.md",
+    "Experimentos/experimento 1 - maças/T8.md",
     "Resultados/Primeira tentativa",
     "Resultados",
     "Experimentos/experimento 1 - maças",
@@ -260,8 +207,6 @@
     "Bibliotecas/OpenCV2/Funções e Exemplo - OpenCV",
     "Sem título.canvas",
     "Projeto/Ideias iniciais",
-    "Projeto",
-    "Sem título.base",
-    "Bibliotecas"
+    "Projeto"
   ]
 }
