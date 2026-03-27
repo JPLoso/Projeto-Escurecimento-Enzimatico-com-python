@@ -16,7 +16,7 @@ def main():
 	#Define o que vai fazer quando clicar no botão para buscar a imagem
 	def clicar_buscar(): 
 		caminho = selecionar_imagem()
-		if caminho: 
+		if caminho:
 			entrada_imagem.set(caminho) 
 			botao_iniciar.config(state="normal") 
 	
